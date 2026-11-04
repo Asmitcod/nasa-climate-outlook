@@ -29,4 +29,4 @@ Before production use, add additional NASA datasets, stronger statistical or mac
 models, uncertainty calibration, data versioning, scheduled ingestion, and evaluation on a
 strictly held-out period.
 
-Source: [NASA GISS Surface Temperature Analysis](https://data.giss.nasa.gov/gistemp/).
+Source: [NASA Global Temperature Earth Indicator](https://science.nasa.gov/earth/explore/earth-indicators/global-temperature/).
