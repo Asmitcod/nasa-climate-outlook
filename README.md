@@ -7,7 +7,7 @@ next 6–24 months, and reports rolling-origin mean absolute error (MAE).
 
 ```powershell
 python -m pip install -r requirements.txt
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 The app fetches the latest data from NASA at runtime and caches it for one hour. If the
